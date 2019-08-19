@@ -1,2 +1,2 @@
 # go
-Practice go proograms
+Practice go programs
